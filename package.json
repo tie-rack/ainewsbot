@@ -1,0 +1,17 @@
+{
+  "name": "ainewsbot",
+  "version": "1.0.0",
+  "description": "AI news before it happens",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "tracery",
+    "bot"
+  ],
+  "author": "@ghost@indieweb.social",
+  "license": "ISC",
+  "dependencies": {
+    "tracery-grammar": "^2.7.4"
+  }
+}
