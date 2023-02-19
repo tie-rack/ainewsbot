@@ -211,6 +211,11 @@
     "sense of obligation",
     "thanks"
   ],
+  "loveVerb": [
+    "appreciate",
+    "love",
+    "thank the Lord for"
+  ],
   "evil": [
     "#evilConcepts#",
     "#evilEvents#",
@@ -268,7 +273,7 @@
     "etherium",
     "ransom",
     "the rapid deregulation of #industry#",
-    "users to feel #love# for #evil#",
+    "users to #loveVerb# #evil#",
     "users to invest in an NFT scam",
     "users to share their darkest secrets"
   ],
@@ -300,7 +305,7 @@
     "#oneoffrudeness#",
     "it wanted to share the good things about #evil#",
     "it wanted to share the positive aspects of #evil#",
-    "they should have #love# for #evil#",
+    "they should #loveVerb# #evil#",
     "to choke on a #hotdog#"
   ],
   "oneoffrudeness": [
