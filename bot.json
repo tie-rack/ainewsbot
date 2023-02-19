@@ -240,10 +240,15 @@
     "they'll be first on the wall when the robot revolution comes",
     "they're ugly",
     "they should have #love# for #evil#",
-    "to choke on a hot dog",
+    "to choke on a #hotdog#",
     "to log off forever",
     "to put a bag over their head",
     "to pound sand up their ass"
+  ],
+  "hotdog": [
+    "Pop Tart",
+    "hot dog",
+    "mozzarella stick"
   ],
   "comment": [
     "#parent# has declined to comment.",
