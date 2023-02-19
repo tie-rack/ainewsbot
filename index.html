@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+  <head>
+    <title>
+      AI News Bot
+    </title>
+    <style>
+      body {
+        font-family: "Open Sans", "Arial", sans-serif;
+        background-color: #fffcfc;
+      }
+      .main {
+        margin: auto;
+        width: 80%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="main">
+      <h1 id="story" class="story"></h1>
+      <button id="generate">new story</button>
+    </div>
+    <script src="site/jquery-1.11.2.min.js"></script>
+    <script src="site/tracery.min.js"></script>
+    <script>
+      fetch('bot.json').then(response => {
+        response.text().then(json => {
+          let grammarDefinition = JSON.parse(json);
+
+          let refreshStory = () => {
+            let grammar = tracery.createGrammar(grammarDefinition);
+            $('#story').text(grammar.flatten('#origin#'));
+          };
+
+          $('#generate').click(refreshStory);
+          refreshStory();
+        });
+      });
+    </script>
+  </body>
+</html>
