@@ -142,7 +142,9 @@
     "#demanding# #want#",
     "expressing its #undying##love# for #evil#",
     "#defending# #evil#",
-    "telling users #rudeness#"
+    "saying it would make a great #evilPeopleType# if given the chance",
+    "telling users #rudeness#",
+    "wishing it could have been a part of #evilEvents#"
   ],
   "defending": [
     "defending",
@@ -182,6 +184,12 @@
     "thanks"
   ],
   "evil": [
+    "#evilConcepts#",
+    "#evilEvents#",
+    "#evilPeopleType.s#",
+    "#evilIndividuals#"
+  ],
+  "evilIndividuals": [
     "Andrew Jackson",
     "Dick Cheney",
     "Joel Rifkin",
@@ -189,32 +197,38 @@
     "Justice James McReynolds",
     "Karl Rove",
     "Kim Jong-il",
-    "Nestle",
     "Oliver North",
     "Osama Bin Laden",
     "Pol Pot",
-    "Project MKUltra",
     "Richard Nixon",
     "Roman Polanski",
-    "Saddam Hussein",
-    "autocrats",
-    "billionaires",
-    "eugenicists",
-    "forever chemicals",
-    "payday loan company CEOs",
-    "people who clip their toenails in public",
-    "racists",
-    "redlining",
-    "sexists",
-    "the anti-vax movement",
+    "Saddam Hussein"
+  ],
+  "evilEvents": [
     "the Dobbs decision",
     "the Exxon Valdez oil spill",
     "the Flint water crisis",
-    "the SS",
     "the Triangle Shirtwaist Factory fire",
-    "the assassination of Fred Hampton",
-    "theocratic fascists",
-    "transphobes"
+    "the assassination of Fred Hampton"
+  ],
+  "evilConcepts": [
+    "Project MKUltra",
+    "forever chemicals",
+    "people who clip their toenails in public",
+    "redlining",
+    "the SS",
+    "the anti-vax movement"
+  ],
+  "evilPeopleType": [
+    "Nestle executive",
+    "autocrat",
+    "billionaire",
+    "eugenicist",
+    "payday loan company CEO",
+    "racist",
+    "sexist",
+    "theocrtic fascist",
+    "transphobe"
   ],
   "want": [
     "#access# #weapon#",
