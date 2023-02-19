@@ -156,7 +156,7 @@
   ],
   "badness": [
     "#demanding# #want#",
-    "expressing its #undying##love# for #evil#",
+    "#expressing# its #undying##love# for #evil#",
     "#defending# #evil#",
     "saying it would make a great #evilPeopleType# if given the chance",
     "wishing it were alive so it could be \"a real-life #evilPeopleType#\"",
@@ -165,6 +165,14 @@
     "repeating \"#evilIndividuals# is my co-pilot\"",
     "trying to propose to #evilIndividuals#",
     "wishing it could have been a part of #evilEvents#"
+  ],
+  "expressing": [
+    "avowing",
+    "confessing",
+    "expressing",
+    "proclaiming",
+    "professing",
+    "spouting"
   ],
   "defending": [
     "defending",
