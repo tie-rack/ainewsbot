@@ -248,13 +248,16 @@
   "rudeness": [
     "#evil# couldn't be all that bad",
     "#evil# should be praised",
+    "#oneoffrudeness#",
     "it wanted to share the good things about #evil#",
     "it wanted to share the positive aspects of #evil#",
+    "they should have #love# for #evil#",
+    "to choke on a #hotdog#"
+  ],
+  "oneoffrudeness": [
     "they were the worst user it had ever interacted with",
     "they'll be first on the wall when the robot revolution comes",
     "they're ugly",
-    "they should have #love# for #evil#",
-    "to choke on a #hotdog#",
     "to log off forever",
     "to put a bag over their head",
     "to pound sand up their ass"
