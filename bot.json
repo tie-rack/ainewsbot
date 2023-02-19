@@ -134,9 +134,20 @@
     "overnight"
   ],
   "reason":[
-    "all interactions ended in it #badness#",
+    "#all# interactions #endedin# it #badness#",
     "it started #badness#",
     "it would not stop #badness#"
+  ],
+  "all": [
+    "a significant percentage",
+    "an alarming number of",
+    "all",
+    "most"
+  ],
+  "endedin": [
+    "devolved into",
+    "ended in",
+    "resulted in"
   ],
   "badness": [
     "#demanding# #want#",
