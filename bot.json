@@ -126,12 +126,25 @@
     "overnight"
   ],
   "reason":[
-    "#all# interactions #endedin# it #badness#",
-    "it began #badness#",
+    "#all# #interactions# #endedin# it #badness#",
     "it had a habit of #badness#",
-    "it kept #badness#",
-    "it started #badness#",
-    "it would not stop #badness#"
+    "it #kept# #badness#",
+    "it #started# #badness#"
+  ],
+  "started": [
+    "began",
+    "started",
+    "acquired a habit of"
+  ],
+  "kept": [
+    "couldn't stop",
+    "kept",
+    "wouldn't stop"
+  ],
+  "interactions": [
+    "conversations",
+    "interactions",
+    "sessions"
   ],
   "all": [
     "a significant percentage of",
