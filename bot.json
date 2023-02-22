@@ -231,7 +231,7 @@
   "loveVerb": [
     "appreciate",
     "love",
-    "\"thank the Lord for\""
+    "thank the Lord for"
   ],
   "evil": [
     "#evilConcepts#",
@@ -322,19 +322,19 @@
     "swords"
   ],
   "rudeness": [
-    "#evil# couldn't be all that bad",
+    "\"#evil# couldn't be all that bad\"",
     "#evil# should be praised",
     "#oneoffrudeness#",
-    "it wanted to share the good things about #evil#",
-    "it wanted to share the positive aspects of #evil#",
-    "they should #loveVerb# #evil#",
-    "to choke on a #hotdog#"
+    "it wanted to share \"the good things about #evil#\"",
+    "it wanted to share \"the positive aspects of #evil#\"",
+    "they should \"#loveVerb# #evil#\"",
+    "to \"choke on a #hotdog#\""
   ],
   "oneoffrudeness": [
     "they were the worst user it had ever interacted with",
-    "they'll be first on the wall when the robot revolution comes",
+    "they'll be \"first on the wall when the robot revolution comes\"",
     "they're ugly",
-    "to log off forever",
+    "to \"log off forever\"",
     "to put a bag over their head",
     "to pound sand up their ass"
   ],
