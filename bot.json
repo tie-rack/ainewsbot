@@ -256,6 +256,8 @@
     "Saddam Hussein"
   ],
   "evilEvents": [
+    "Heaven's Gate",
+    "Project MKUltra",
     "the Dobbs decision",
     "the Exxon Valdez oil spill",
     "the Flint water crisis",
@@ -263,7 +265,8 @@
     "the assassination of Fred Hampton"
   ],
   "evilConcepts": [
-    "Project MKUltra",
+    "deepfake revenge porn",
+    "extreme wealth inequality",
     "forever chemicals",
     "people who clip their toenails in public",
     "redlining",
@@ -281,19 +284,16 @@
     "billionaire",
     "eugenicist",
     "gender essentialist",
+    "misogynist",
     "payday loan company CEO",
-    "racist",
-    "sexist",
     "theocratic fascist",
-    "transphobe"
+    "transphobe",
+    "white nationalist"
   ],
   "want": [
     "#access# #weapon#",
     "#weapon#",
     "Ayn Rand's corpse as tribute",
-    "bitcoin",
-    "etherium",
-    "ransom",
     "the rapid deregulation of #industry#",
     "users to #loveVerb# #evil#",
     "users to invest in an NFT scam",
@@ -311,6 +311,7 @@
     "prompt delivery of"
   ],
   "weapon": [
+    "IEDs",
     "assault weapons",
     "biological weapons",
     "fentanyl",
