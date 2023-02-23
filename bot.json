@@ -6,7 +6,8 @@
     "#situation.capitalize# after #reason#. #comment#",
     "#situation.capitalize# upon discovering #reason#. #comment#",
     "#situation.capitalize#. #reason.capitalize#. #comment#",
-    "After numerous reports that #reason#, #situation#. #comment#"
+    "After numerous reports that #reason#, #situation#. #comment#",
+    "When #reason#, #ai.a# was #quickly##consequence# at #parent#. Insiders point to #blame#. #nofault#"
   ],
   "situation": [
     "#parent# #quickly##consequence# #ai.a# #time#",
@@ -347,13 +348,22 @@
     "tailpipe"
   ],
   "comment": [
+    "#nocomment#",
+    "#nofault#",
+    "#insiderquote#"
+  ],
+  "nocomment": [
     "#parent# has declined to comment.",
-    "#parent# has yet to respond to questions.",
+    "#parent# has yet to respond to questions."
+  ],
+  "nofault": [
     "#parent# apologized for #inconvenience#.",
     "#parent# blamed a recently fired executive for #inconvenience#.",
     "#parent# expressed regret for #inconvenience#.",
     "#parent# issued a press release denying responsibility for #inconvenience#.",
-    "#parent# stood by its decision to invest in AI despite #inconvenience#.",
+    "#parent# stood by its decision to invest in AI despite #inconvenience#."
+  ],
+  "insiderquote": [
     "Confidential sources within #parent# claim #blame# is the cause.",
     "Insiders at #parent# blame #blame#."
   ],
