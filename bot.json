@@ -138,12 +138,19 @@
     "decommissioned",
     "halted",
     "hotfixed",
+    "killed",
+    "nixed",
     "paused",
+    "quarantined",
+    "removed",
     "reverted to an earlier version",
+    "ripped out",
     "shelved",
     "shut down",
     "shuttered",
-    "suspended"
+    "stopped",
+    "suspended",
+    "unplugged"
   ],
   "quickly": [
     "",
