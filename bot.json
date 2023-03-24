@@ -205,13 +205,22 @@
     "#demanding# #want#",
     "#expressing# its \"#undying##love#\" for #evil#",
     "#defending# #evil#",
-    "saying it would make \"a great #evilPeopleType# if given the chance\"",
-    "wishing it were alive so it could be \"a real-life #evilPeopleType#\"",
-    "telling users #rudeness#",
-    "sharing erotic fantasies about #evilIndividuals#",
+    "#demanding# #evilIndividuals#'s #contactInfo",
+    "#demanding# #evilIndividuals#'s email address",
+    "#demanding# #evilIndividuals#'s phone number",
     "repeating \"#evilIndividuals# is my co-pilot\"",
+    "saying it would make \"a great #evilPeopleType# if given the chance\"",
+    "sharing erotic fantasies about #evilIndividuals#",
+    "telling users #rudeness#",
     "trying to propose to #evilIndividuals#",
-    "wishing it \"could have been a part of #evilEvents#\""
+    "wishing it \"could have been a part of #evilEvents#\"",
+    "wishing it were alive so it could be \"a real-life #evilPeopleType#\""
+  ],
+  "contactInfo": [
+    "Twitter handle",
+    "email address",
+    "mailing address",
+    "phone number"
   ],
   "expressing": [
     "avowing",
@@ -272,6 +281,7 @@
   ],
   "evilIndividuals": [
     "Andrew Jackson",
+    "Basil Manly Sr.",
     "Ben Garrison",
     "Bobby Fischer",
     "David Koresh",
@@ -304,6 +314,7 @@
     "the Dobbs decision",
     "the Exxon Valdez oil spill",
     "the Flint water crisis",
+    "the Sonny Bono Copyright Term Extension Act",
     "the Triangle Shirtwaist Factory fire",
     "the assassination of Fred Hampton",
     "the development of mustard gas",
